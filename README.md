@@ -27,3 +27,6 @@ else:
 Easy to understand
 Uses basic Python concepts
 Helpful for beginners learning conditions
+Output
+<img width="1066" height="1248" alt="17770884279527456297444890491347" src="https://github.com/user-attachments/assets/729a84b6-8deb-4eaa-850a-8ae356cb5b58" />
+
